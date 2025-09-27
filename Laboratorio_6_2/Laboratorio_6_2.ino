@@ -47,9 +47,9 @@ delay(tiempoRetardo/2);
 }
 }
 
-Código para agregar en la línea indicada
+//Código para agregar en la línea indicada
 // Establecer la velocidad del motor en cero
-analogWrite(ENA,0);
+//analogWrite(ENA,0);
 
 // Retardo en dirección de avance
-delay(tiempoRetardo);
+//delay(tiempoRetardo);
